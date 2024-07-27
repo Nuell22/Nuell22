@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Nuell22
+- 🏫 Currently studying computer science
 - 🌱 I’m currently learning Machine Learning
 - 📫 Reach me on discord @thenuell22
 - ⚡ Fun fact: Greenland has a bigger coast line then Russia while being 8 times smaller
